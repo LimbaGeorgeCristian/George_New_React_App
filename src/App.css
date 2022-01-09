@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 100%);
+}
+#george_p{
+  color:red;
+  border: 1px solid black;
+  border-radius: 20px;
+  width:25%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .App-logo {
